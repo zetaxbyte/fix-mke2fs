@@ -20,5 +20,5 @@ AssertionError: Failed to execute: /tmp/src/android/out/soong/host/linux-x86/bin
 
 just copy paste this
 ```
-curl -LSs https://github.com/zetaxbyte/fix-mke2fs/raw/refs/heads/mweh/fix-mke2fs.sh | bash
+curl -LSs https://github.com/zetaxbyte/fix-mke2fs/raw/refs/heads/Linux/fix-mke2fs.sh | bash
 ```
